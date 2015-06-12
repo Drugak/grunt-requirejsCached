@@ -1,0 +1,1 @@
+define("karl-marx/communism",[],function(){function e(e,t){return e+t}return{add:e}}),define("lenin/myCommunism",[],function(){function e(e,t){return e-t+2}return{minus:e}}),require(["karl-marx/communism","lenin/myCommunism"],function(e,t){}),define("main.js",function(){});
